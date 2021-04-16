@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Quan ao danh cho tre">270cdc0ddbe32010e0d4cc303996197e</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-14 07:38:23</sys_created_on>
+        <sys_id>2b5c144ddbe32010e0d4cc30399619bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quan ao danh cho tre.'Problem Analyzers' and 'Problem Solving' Group Members</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_2b5c144ddbe32010e0d4cc30399619bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-14 07:38:23</sys_updated_on>
+        <user_criteria display_value="'Problem Analyzers' and 'Problem Solving' Group Members">29b4e0c9873023000e3dd61e36cb0b42</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>
